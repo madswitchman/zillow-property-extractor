@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Zillow Property Extractor",
+  "version": "1.2.1",
+  "description": "Extract property addresses and days on market from Zillow search results as sortable Excel spreadsheets",
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.zillow.com/*"
+      ],
+      "js": ["xlsx.full.min.js", "content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
