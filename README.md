@@ -128,8 +128,14 @@ If Zillow changes their website layout and the extension stops working:
 2. I can update the selectors in `content.js`
 3. You'll just need to reload the extension folder
 
+## Support
+
+If you find this extension helpful, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/madswitchman)
+
 ---
 
 **Created for:** Extracting newly listed property addresses for moving company postcard campaigns
-**Version:** 1.0.0
+**Version:** 1.2.1
 **Last Updated:** October 2025
