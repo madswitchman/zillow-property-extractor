@@ -137,5 +137,7 @@ If Zillow changes their website layout and the extension stops working:
 ---
 
 **Created for:** Extracting newly listed property addresses for mailer campaigns
+
 **Version:** 1.2.1
+
 **Last Updated:** October 2025
